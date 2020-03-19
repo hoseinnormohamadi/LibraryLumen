@@ -1,6 +1,6 @@
 # Lumen Library
 
-A Simple library support queue,exel,jwt,curd And .....
+A Simple library support queue,exel And .....
 
 ## Official API Documentation
 
@@ -13,5 +13,4 @@ Documentation for the Api can be found on the [PostMan collection](https://docum
 4 - docker-compose exec app php artisan migrate<br>
 5 - for start create user<br>
 6 - login and use api-token <br>
-7 - for add book with tag first you must create tag<br>
-8 - for jwt you can change user model and auth middleware<br>
+7 - for add book with tag , first you must create tag<br>
