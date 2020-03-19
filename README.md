@@ -7,7 +7,7 @@ A Simple library support queue,exel,jwt,curd And .....
 Documentation for the Api can be found on the [PostMan collection](https://documenter.getpostman.com/view/10496776/SzRyz9z8?version=latest).
 
 ## How to Run
-1 - open terminal
+1 - open terminal<br>
 2 - docker-compose up -d --build
 3 - wait a minute for database to run
 4 - docker-compose exec app php artisan migrate
