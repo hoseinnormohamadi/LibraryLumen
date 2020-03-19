@@ -8,10 +8,10 @@ Documentation for the Api can be found on the [PostMan collection](https://docum
 
 ## How to Run
 1 - open terminal<br>
-2 - docker-compose up -d --build
-3 - wait a minute for database to run
-4 - docker-compose exec app php artisan migrate
-5 - for start create user
-6 - login and use api-token 
-7 - for add book with tag first you must create tag
-8 - for jwt you can change user model and auth middleware
+2 - docker-compose up -d --build<br>
+3 - wait a minute for database to run<br>
+4 - docker-compose exec app php artisan migrate<br>
+5 - for start create user<br>
+6 - login and use api-token <br>
+7 - for add book with tag first you must create tag<br>
+8 - for jwt you can change user model and auth middleware<br>
